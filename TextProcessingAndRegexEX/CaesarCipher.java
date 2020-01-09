@@ -9,7 +9,6 @@ public class CaesarCipher {
 
         String text = scanner.nextLine();
 
-
         for (int i = 0; i < text.length(); i++) {
             int symbol = text.charAt(i) + 3;
             char symbol2 = (char)symbol;
