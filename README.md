@@ -9,7 +9,7 @@
 * [More exercises: Data types and variables](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/DatatypesAndVariablesMEx)
 * [Arrays](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/Arrays)
 * [Exercise: Arrays](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ArraysExercise)
-* [More exercises: Arrays](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ArraysMoreEx
+* [More exercises: Arrays](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ArraysMoreEx)
 * [Lists/Arrays advanced](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/Lists)
 * [Exercise: Lists/Arrays advanced](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ListsExercise)
 * [More exercises: Lists/Arrays advanced](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ListsMoreEx)
