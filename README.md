@@ -1,4 +1,4 @@
-Technology Fundamentals with Java module [Link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019):
+[Technology Fundamentals with Java module](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019):
 <br/>
 
 * [Basic syntax, conditional statements and loops](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/Overview)
