@@ -1,5 +1,7 @@
 Technology Fundamentals with Java module: (https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019)
 <br/>
+[SoftUni Certificate](https://softuni.bg/certificates/details/65652/3bc541e6)
+<br/>
   * Basic syntax, conditional statements and loops: <span> [Lab](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/Overview) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/OverviewExercise) <span/><span> [More exercises](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/OverviewMoreEx) <span/>
   * Data types and variables: <span> [Lab](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/DataTypesAndVariables) <span/><span> [Exercise](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/DataTypesAndVariablesEx) <span/><span> [More exercises](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/DatatypesAndVariablesMEx) <span/>
   * Arrays: <span> [Lab](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/Arrays) <span/><span> [Exercise](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ArraysExercise) <span/><span> [More exercises](https://github.com/KrasimirKolchev/Technology-Fundamentals/tree/master/ArraysMoreEx) <span/>
